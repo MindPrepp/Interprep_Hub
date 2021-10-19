@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Intprep Training Hub</title>
+	<link rel="stylesheet" href="css/boostrap.min">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<h1>Who We Are</h1>
+	<p>INTPREP TRAINING HUB is a Human Capacity Development and business consultancy services firm registered under the <strong>Corporate Affairs Commission <em>(CAC)</em></strong> with a mandate to carry out employability skill enhancements, on-the-job training, professional training and certifications, recruitment services, business consultancy services and leadership development.
+	</p>
+	<!--BoostraPlugins from jQuery-->
+	<script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+	<script type="text/javascript" src="js/boostrap.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+	
+</body>
+</html>
