@@ -1,0 +1,27 @@
+{
+  "name":"Interprep_Hub",
+  "version": "1.0.0",
+  "description": "This is a project on Intprep Hub website",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindPrepp/Interprep_Hub.git"
+  },
+  "keywords": [
+    "Intrprep"
+  ],
+  "author": "Olaoye Oluwatoyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MindPrepp/Interprep_Hub/issues"
+  },
+  "homepage": "https://github.com/MindPrepp/Interprep_Hub#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
